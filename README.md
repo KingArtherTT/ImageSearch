@@ -32,7 +32,7 @@
 
 ### 系统效果演示
 
-![](pictures/系统演示.gif)
+![](https://github.com/KingArtherTT/ImageSearch/blob/master/pictures/系统演示.gif)
 
 
 
