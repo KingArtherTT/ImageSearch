@@ -31,8 +31,10 @@
 
 
 ### 系统效果演示
+演示图片位于/pictures/系统演示.gif
+这里为了解决显示问题，先将图片上传到了图床，然后复制链接过来的。
 
-![](https://github.com/KingArtherTT/ImageSearch/blob/master/pictures/系统演示.gif)
+![](https://s1.ax1x.com/2020/05/08/YusYHU.gif)
 
 
 
